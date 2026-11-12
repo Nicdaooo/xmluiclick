@@ -10,6 +10,7 @@
         android:layout_height="0dp"
         android:contentDescription="@null"
         android:scaleType="fitXY"
+        android:src="@drawable/yellow_simple_iu_ux_design_app__10_"
         app:srcCompat="@drawable/yellow_simple_iu_ux_design_app__10_"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -23,6 +24,7 @@
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
         android:contentDescription="@null"
+        android:src="@drawable/yellow_simple_iu_ux_design_app__11_"
         app:srcCompat="@drawable/yellow_simple_iu_ux_design_app__11_"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
@@ -32,6 +34,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:contentDescription="@null"
+        android:src="@drawable/yellow_simple_iu_ux_design_app__13__removebg_preview"
         app:srcCompat="@drawable/yellow_simple_iu_ux_design_app__13__removebg_preview"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintBottom_toTopOf="@+id/btn_back_dashboard"

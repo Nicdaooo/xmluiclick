@@ -10,6 +10,7 @@
         android:layout_height="0dp"
         android:contentDescription="@null"
         android:scaleType="fitXY"
+        android:src="@drawable/yellow_simple_iu_ux_design_app__12_"
         app:srcCompat="@drawable/yellow_simple_iu_ux_design_app__12_"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -23,6 +24,7 @@
         android:layout_marginStart="16dp"
         android:layout_marginTop="16dp"
         android:contentDescription="@null"
+        android:src="@drawable/yellow_simple_iu_ux_design_app__11_"
         app:srcCompat="@drawable/yellow_simple_iu_ux_design_app__11_"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
