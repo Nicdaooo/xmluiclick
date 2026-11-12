@@ -58,7 +58,10 @@ public class MainActivity extends AppCompatActivity {
         // Login button function
         loginButton.setOnClickListener(v -> handleSignIn.run());
 
-        // Sign In button function
-        signInButton.setOnClickListener(v -> handleSignIn.run());
+        // Sign In button function -> transition to RegisterActivity
+        signInButton.setOnClickListener(v -> {
+            Intent intent = new Intent(MainActivity.this, RegisterActivity.class);
+            startActivity(intent);
+        });
     }
 }
